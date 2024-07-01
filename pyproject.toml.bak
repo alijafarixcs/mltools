@@ -1,0 +1,18 @@
+[project]
+name = "mltools_alijafarixcs"
+version = "0.0.1"
+authors = [
+  { name="Ali Jafari", email="aalijafarixcs@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/alijafarixcs/mltools"
+Issues = "https://github.com/alijafarixcs/mltools/issues"
